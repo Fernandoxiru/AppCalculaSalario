@@ -1,7 +1,7 @@
 # AppCalcula_Sálario
 
 ## 📱 Descrição
-O #AppCalcula_Salário# permite ao usuário calcular seu salário líquido
+O *AppCalcula_Salário* permite ao usuário calcular seu salário líquido
 
 ## 🔧 Funcionalidades
 - [X] Entrada de dados(digite seu salário e digite seu percentual)
